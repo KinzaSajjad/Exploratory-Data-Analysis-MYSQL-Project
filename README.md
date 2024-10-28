@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-MYSQL-Project
+# Exploratory Data Analysis MYSQL Project
 ## World Layoffs Data Analysis
 
 **Project Overview**
